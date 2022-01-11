@@ -1,9 +1,10 @@
-import { ReactComponent as GithubIcon } from "assets/img/github.svg";
+import {ReactComponent as GithubIcon} from 'assets/img/github.svg';
 import './styles.css';
 function Navbar() {
+  
   return (
     <header>
-      <nav className="conteiner">
+      <nav className="container">
         <div className="dsmovie-nav-content">
           <h1>DSMovie</h1>
           <a href="https://github.com/flavio3310/dsmovie">
