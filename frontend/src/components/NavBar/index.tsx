@@ -2,7 +2,7 @@ import {ReactComponent as GithubIcon} from 'assets/img/github.svg';
 import './styles.css';
 function Navbar() {
   
-  return (
+   return (
     <header>
       <nav className="container">
         <div className="dsmovie-nav-content">
