@@ -5,7 +5,7 @@ type Props = {
   score: number;
   count: number;
 }
-function MovieScore({score, count} : Props) {
+function MovieScore({ score, count } : Props) {
 
   return (
     <div className="dsmovie-score-container">
