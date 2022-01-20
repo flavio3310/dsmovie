@@ -2,7 +2,9 @@
 
  Semana Spring e React.
  
- DSMovie- Catálogos e avaliação de filmes...
+ Projeto DSMovie- Catálogos e avaliação de filmes...
+ 
+ Tecnologias utilizadas
  
  Front End: RactJs/ TypeScript/ Axios/ Bootstrap
  Back End: Springboot,Spring Data Jpa/ Java 17/ Jpa/ Hibernate/ Postgresql 12
