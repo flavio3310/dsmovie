@@ -1,7 +1,5 @@
-# dsmovie
-
- Semana Spring e React.
- 
+# Semana Spring e React
+  
  Projeto DSMovie- Catálogos e avaliação de filmes...
  
  Tecnologias utilizadas
